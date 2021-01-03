@@ -1,9 +1,9 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30717.126
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "异世界单位转换器", "ForeignWorldUnitConvert.vbproj", "{329ADA65-0FDE-4B0D-9E84-4BB2960A8FFF}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ForeignWorldUnitConvert", "ForeignWorldUnitConvert.vbproj", "{E137F3E9-17E6-41B0-AAF0-97FAEFFF1918}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{329ADA65-0FDE-4B0D-9E84-4BB2960A8FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{329ADA65-0FDE-4B0D-9E84-4BB2960A8FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{329ADA65-0FDE-4B0D-9E84-4BB2960A8FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{329ADA65-0FDE-4B0D-9E84-4BB2960A8FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E137F3E9-17E6-41B0-AAF0-97FAEFFF1918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E137F3E9-17E6-41B0-AAF0-97FAEFFF1918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E137F3E9-17E6-41B0-AAF0-97FAEFFF1918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E137F3E9-17E6-41B0-AAF0-97FAEFFF1918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D864E90E-0761-4E54-A514-F402F386D79B}
+		SolutionGuid = {5A4014F6-C38B-4687-8DB8-08C07BAEAD60}
 	EndGlobalSection
 EndGlobal
